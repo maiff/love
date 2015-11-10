@@ -1,0 +1,140 @@
+nav{
+
+	height: 50px;
+
+}
+header{
+		background-image: url("../src/test.jpg");
+		opacity: 0.8;
+}
+#banner{
+
+	height: 620px;
+}
+nav ul{
+	list-style:none;
+	margin:0;
+}
+.logo{
+	float: left;
+	letter-spacing: 1px;
+
+}
+.logo a{
+	color: #fff;
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-decoration: none;
+	line-height: 50px;
+	padding: 20px;
+}
+nav ul li{
+	display:inline-block;
+	line-height: 50px;
+	float: right;
+	margin-right: 20px;
+}
+
+nav ul li a{
+	line-height: 50px;
+	text-decoration: none;
+	display: inline-block;
+	height: inherit;
+	color: #fff;
+	
+}
+#banner .inner h1{
+	margin:0;
+	font-size: 30px;
+	color: #fff;
+	font-family: "楷体","宋体",sans-serif;
+	padding: 10px;
+}
+
+#banner .inner .line{
+	margin: 0;
+	padding: 0;
+
+}
+
+p，button,a{font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;}
+#banner .inner{
+	max-width: 300px;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: 200px
+}
+
+button{
+	border: none;
+	
+	color:#eee;
+	
+	
+}
+#banner button{
+	padding: 10px 25px;
+	background-color: red;
+	font-weight: 550;
+	border-radius: 10px;
+	outline: none;
+
+}
+#banner button p{
+	margin: 0;
+	padding: 0;
+	font-weight: 700;
+	font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+}
+#banner .inner .more{
+	margin-top:200px;
+	font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+	color:white;
+}
+
+#banner .inner .sub-heading{
+	line-height: :30px;
+	margin:30;
+	color: #fff;
+	font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+	font-size: 15px;
+}
+
+.green-section {
+
+	background: #089DB0;
+	color: #fff;
+	height: 620px;
+
+}
+
+
+.wrapper{
+	background: #089DB0;
+	color: #fff;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+
+.content{
+	margin-top: -20px;
+	padding: 0;
+}
+
+
+.word{
+	position: relative;
+	top: 200px;
+}
+
+.hr{
+	background: #078494;
+	width: 60%;
+	height: 2px;
+	margin: 20px auto;
+}
